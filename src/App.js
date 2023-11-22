@@ -41,7 +41,7 @@ const SignUpForm = () => {
 
     <div className="container">
       <div className="form-image">
-        <img src="WhatsApp Image 2023-11-11 at 21.20.52.jpeg" alt="" />
+        <img src="passaro.jpeg" alt="" />
       </div>
 
       <div className="form">
